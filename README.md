@@ -1,2 +1,1 @@
-# PIA_01
-Tarea PIA 01 - Crea tu primer repositorio 
+<h1 align="center"> Programación de Inteligencia Artificial </h1>
