@@ -23,6 +23,9 @@
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
+El proyecto trata de poder crear t
+
+
 *[Estado del proyecto](#Estado-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
