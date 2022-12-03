@@ -1,2 +1,3 @@
 <h1 align="center"> Programación de Inteligencia Artificial </h1>
-![Portada_PIA](https://user-images.githubusercontent.com/119708627/205411853-979b5c63-e343-4d2f-bbc9-aa52d25263d8.png)
+
+![Portada_PIA](https://user-images.githubusercontent.com/119708627/205412280-d14f137a-17ce-4dce-bec0-93739140b60d.png)
